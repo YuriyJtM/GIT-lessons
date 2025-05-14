@@ -1,3 +1,10 @@
 <div>
 My name Yuriy
 </div>
+<div>
+<ul>
+<li>git add
+<li>git status
+</li>git commit
+</ul>
+</div>
