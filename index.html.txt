@@ -11,5 +11,6 @@ My name Yuriy
 <li>git checkout
 <li> end lesson
 <li> go sleep
+<li> alarm
 </ul>
 </div>
