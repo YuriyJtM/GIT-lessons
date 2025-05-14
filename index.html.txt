@@ -9,5 +9,6 @@ My name Yuriy
 <li>git push
 <li>git pull
 <li>git checkout
+<li> end lesson
 </ul>
 </div>
