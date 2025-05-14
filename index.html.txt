@@ -6,5 +6,7 @@ My name Yuriy
 <li>git add
 <li>git status
 <li>git commit
+<li>git push
+<li>git pull
 </ul>
 </div>
