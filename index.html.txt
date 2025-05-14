@@ -8,5 +8,6 @@ My name Yuriy
 <li>git commit
 <li>git push
 <li>git pull
+<li>git checkout
 </ul>
 </div>
